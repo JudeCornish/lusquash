@@ -79,7 +79,7 @@ TweenMax.from(".medium-img", 2, {
 });
 
 TweenMax.from(".small-img", 2, {
-	delay: 2,
+	delay: 1.5,
 	y: 0,
 	opacity: 0,
 	ease: Expo.easeInOut,

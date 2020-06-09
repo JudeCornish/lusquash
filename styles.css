@@ -632,9 +632,12 @@ button:hover {
 
 .sponsor-socials {
 	list-style: none;
-	font-size: 150%;
 	display: flex;
 	flex-direction: row;
+}
+
+.sponsor-socials p {
+	font-size: 120%;
 }
 
 .sponsor-socials li {
@@ -645,6 +648,7 @@ button:hover {
 .sponsor-socials a {
 	color: var(--main-red);
 	transition: all 0.25s ease-in-out;
+	font-size: 150%;
 }
 
 .sponsor-socials a:hover {
