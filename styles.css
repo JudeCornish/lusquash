@@ -1037,7 +1037,7 @@ footer h2 {
 	color: rgba(255, 255, 255, 0);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1050px) {
 	.info-container-inner {
 		display: none;
 	}
