@@ -720,7 +720,7 @@ button:hover {
 }
 
 .amount-progress-bar.is-visible {
-	width: 71%;
+	width: 100%;
 	transition: 2s ease-in-out;
 }
 
@@ -734,7 +734,7 @@ button:hover {
 }
 
 .run-progress-bar.is-visible {
-	width: 89%;
+	width: 100%;
 	transition: 2s ease-in-out;
 }
 
